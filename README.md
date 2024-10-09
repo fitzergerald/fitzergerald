@@ -5,6 +5,8 @@
 - 😄 Pronouns: Don't be silly
 - ⚡ Fun fact: I recognize two and only two genders
 
+[![Meshery](https://badges.layer5.io/assets/badges/meshery/meshery.png)](https://meshery.layer5.io/user/090e7114-509a-4046-81f1-9c5fb8daf724?tab=badges&badge=meshery)
+
 <!---
 fitzergerald/fitzergerald is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
