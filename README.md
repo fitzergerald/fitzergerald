@@ -1,5 +1,5 @@
 <table align="right" width="100%" border="0px"><tr style="border: none;">
-        <td style="border: none;">
+        <td style="border: none;"><!ELEMENT br EMPTY>
     
 - 👋 Hi, I’m @fitzergerald
 - 👀 I’m interested in being an amazing engineer 
@@ -10,12 +10,12 @@
     
   </td>
   <td align="center">
-<a href= "https://badges.layer5.io" >
+<a href= "https://badges.layer5.io" style="color: #00b39f;">
   <img width="224px" src="https://badges.layer5.io/assets/badges/meshery/meshery.png" alt = "Meshery" />
 <br />Get your own badge</a>
 </td></tr></table>
 
-
+github-profile-views-counter
 
 <!---
 fitzergerald/fitzergerald is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
