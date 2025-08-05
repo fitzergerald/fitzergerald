@@ -1,4 +1,4 @@
-<table border="0px" align="right"><tr>
+<table align="right" width="100%" border="none"><tr>
   <td>
     
 - 👋 Hi, I’m @fitzergerald
