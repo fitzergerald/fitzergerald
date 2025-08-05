@@ -1,5 +1,5 @@
-<table align="right" width="100%" border="0px" color="black"><tr>
-  <td>
+<table align="right" width="100%" border="0px"><tr style="border: none;">
+        <td style="border: none;">
     
 - 👋 Hi, I’m @fitzergerald
 - 👀 I’m interested in being an amazing engineer 
